@@ -1,0 +1,17 @@
+.body{
+	font-family:Helvetica;
+	color:#333;
+	font-size:16px;
+	line-height:1.6px;
+	 
+}
+
+.header{
+	background-color:whitesmoke;
+	border-width: 1px;
+	border-color: #ddd;
+}
+
+.button{
+	background-color:whitesmoke;
+}
